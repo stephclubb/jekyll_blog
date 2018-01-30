@@ -1,3 +1,4 @@
 name: Steph Clubb
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+collections: portfolio
