@@ -2,12 +2,13 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family:'Raleway', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+
 }
 nav ul li, footer ul li {
     display: inline;
