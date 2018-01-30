@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Steph Clubb, Aspiring front-end, Launches Site"
+title: "Steph Clubb, Design and front-end, Site launch"
 date: 2018-01-30
 ---
 
