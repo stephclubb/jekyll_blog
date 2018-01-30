@@ -29,8 +29,8 @@ p {
     color: #333;
 }
 
-abbr{
-    text0-decoration:none;   
+abbr[title], acronym[title]{
+    decoration:none;   
 }    
 
 footer {
